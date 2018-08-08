@@ -35,7 +35,7 @@ def basicdata():
       tk.Entry(frame1,textvariable=RT,width=30).grid(row=5, padx=2, pady=2)
 
 #Engine List
-tk.Label(frame1, text='EngineList.xlsx').grid(row=6,column=0)
+tk.Label(frame1,bg='white', text='EngineList.xlsx').grid(row=6,column=0)
 tk.Entry(frame1,textvariable=EL,width=30).grid(row=7, padx=2, pady=2)
 
 def tanksize():
