@@ -233,8 +233,8 @@ class iteration(object):
 
 def event(event):
       #Get values - BM,DV,RT,EL,PL,[OT,MD,YS,CP,CT,MM,FS]
-      #iteration(BM.get(),DV.get(),RT.get(),EL.get(),[OT.get(),MD.get(),YS.get(),CP.get(),CT.get(),MM.get(),FS.get()])
-      iteration(450,7,2.5,"ED",[300,4678,140,5768,289.74,132,2.5]) #testing purposes
+      iteration(BM.get(),DV.get(),RT.get(),EL.get(),[OT.get(),MD.get(),YS.get(),CP.get(),CT.get(),MM.get(),FS.get()])
+      #iteration(450,7,2.5,"ED",[300,4678,140,5768,289.74,132,2.5]) #testing purposes
 
 
 button =tk.Button(frame1, text="Plot") #create button
