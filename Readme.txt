@@ -1,4 +1,10 @@
 # Ion-Propulsion-system-comparison-tool
+
+The python code has the following dependencies - 
+1) tkinter
+2) pandas
+3) matplotlib
+
 The "Ion Propulsion system comparison tool" takes in the following user inputs -
 
 1)  Base Mass ( = Structure+Payload i.e. everything besides the power and the propulsion
@@ -28,7 +34,7 @@ And then calculates -
 4) Tank wall thickness
 5) Tank Pressure
 
-Apart from display in the UI (made usign Tkinter) a 'Log' is also generated
+Apart from display in the UI (made using Tkinter) a 'Log' is also generated
 Sample 'Log' output - 
 Engine:............|Qinetiq T6 (1kw)
 ISP:...............|4500.0s
