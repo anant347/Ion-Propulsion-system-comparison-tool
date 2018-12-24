@@ -4,7 +4,7 @@ The python code has the following dependencies -
 1) tkinter
 2) pandas
 3) matplotlib
-Note: Make sure you have the Engine list in the same folder as the code. The Log and the graphs would be saved in the same folder.
+Note: Make sure you have the Engine list in the same folder as the code. The Log and the graphs would be saved in the same folder. Please run through a compiler like 'spyder'
 
 The "Ion Propulsion system comparison tool" takes in the following user inputs -
 
