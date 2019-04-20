@@ -13,7 +13,7 @@ The "Ion Propulsion system comparison tool" takes in the following user inputs -
 subsystem (= Propellant mass + Tank mass)
 2)  Delta-V
 3)  Specific power of RTG (Radioisotope thermoelectric generator) in W/kg
-4)  List of Engines in .elsx format (Sample included (sourced from manufacturer websites) in the repository) 
+4)  List of Engines in .xlsx format (Sample included (sourced from manufacturer websites) in the repository) 
     Engine List should have the following information (in the same order as in the sample)
     4.1) Engine Name
     4.2) Engine Mass
